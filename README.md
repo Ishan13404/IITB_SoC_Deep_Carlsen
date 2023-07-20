@@ -6,3 +6,6 @@ Python (including OOPs), Tensorflow, Google Collab, Deep Learning, Reinforcement
 
 # Made By
 Ishan Grover (Roll No.- 22B1528)
+
+# Report
+All the work is being done in a Kaggle Notebook which can be accessed <a href = "https://www.kaggle.com/code/groverishan/soc23deepcarlsen-22b1528">here</a>.
